@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9267d7c-bbaf-4399-aaee-1019751b2c68" name="Changes" comment="add week 4 recap session">
-      <change afterPath="$PROJECT_DIR$/week4/Homework/Q1.py" afterDir="false" />
+    <list default="true" id="f9267d7c-bbaf-4399-aaee-1019751b2c68" name="Changes" comment="add week 4 homework question 1">
       <change afterPath="$PROJECT_DIR$/week4/Homework/Q2.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/week4/Homework/Q3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -297,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671107893393</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="add week 4 homework question 1">
+      <created>1671108231072</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1671108231072</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -327,7 +332,8 @@
     <MESSAGE value="add week 3 homework" />
     <MESSAGE value="add week 4 starter" />
     <MESSAGE value="add week 4 recap session" />
-    <option name="LAST_COMMIT_MESSAGE" value="add week 4 recap session" />
+    <MESSAGE value="add week 4 homework question 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="add week 4 homework question 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
