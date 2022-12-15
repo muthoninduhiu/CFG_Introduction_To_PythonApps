@@ -1,21 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9267d7c-bbaf-4399-aaee-1019751b2c68" name="Changes" comment="add exercise files">
-      <change afterPath="$PROJECT_DIR$/homework/week3homework.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4/Exercise 4.2.py" afterDir="false" />
+    <list default="true" id="f9267d7c-bbaf-4399-aaee-1019751b2c68" name="Changes" comment="add week 4 recap session">
       <change afterPath="$PROJECT_DIR$/week4/Homework/Q1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/week4/Homework/Q2.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/week4/Homework/Q3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4/Homework/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4/exercices 4.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4/exercise 4.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4/exercise 4.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4/exercise 4.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4/exercise 4.6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4/exercise 4.7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4/starter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,28 +39,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/PycharmProjects/cfg-python&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.exercise 4.7">
-    <configuration name="exercices 4.3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="cfg-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4/exercices 4.3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.recap">
     <configuration name="exercise 4.4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cfg-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -177,13 +145,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="recap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cfg-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4/recap.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.recap" />
         <item itemvalue="Python.exercise 4.7" />
         <item itemvalue="Python.exercise 4.6" />
         <item itemvalue="Python.exercise 4.5" />
         <item itemvalue="Python.exercise 4.4" />
-        <item itemvalue="Python.exercices 4.3" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +220,84 @@
       <option name="project" value="LOCAL" />
       <updated>1669018006946</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add init file for python projects">
+      <created>1671107430231</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1671107430231</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add exercise 4.3">
+      <created>1671107443244</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1671107443244</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add exercise 4.1">
+      <created>1671107450588</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1671107450588</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add exercise 4.2">
+      <created>1671107457673</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1671107457673</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add exercise 4.4">
+      <created>1671107466385</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1671107466385</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add exercise 4.5">
+      <created>1671107474824</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1671107474824</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add exercise 4.6">
+      <created>1671107486374</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1671107486374</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add exercise 4.7">
+      <created>1671107495356</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1671107495356</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add week 3 homework">
+      <created>1671107511166</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1671107511166</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add week 4 starter">
+      <created>1671107523474</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1671107523474</updated>
+    </task>
+    <task id="LOCAL-00016" summary="add week 4 recap session">
+      <created>1671107893393</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1671107893393</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -250,7 +316,18 @@
     <MESSAGE value="add amount of cat food" />
     <MESSAGE value="add project files" />
     <MESSAGE value="add exercise files" />
-    <option name="LAST_COMMIT_MESSAGE" value="add exercise files" />
+    <MESSAGE value="add init file for python projects" />
+    <MESSAGE value="add exercise 4.3" />
+    <MESSAGE value="add exercise 4.1" />
+    <MESSAGE value="add exercise 4.2" />
+    <MESSAGE value="add exercise 4.4" />
+    <MESSAGE value="add exercise 4.5" />
+    <MESSAGE value="add exercise 4.6" />
+    <MESSAGE value="add exercise 4.7" />
+    <MESSAGE value="add week 3 homework" />
+    <MESSAGE value="add week 4 starter" />
+    <MESSAGE value="add week 4 recap session" />
+    <option name="LAST_COMMIT_MESSAGE" value="add week 4 recap session" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
