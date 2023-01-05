@@ -12,8 +12,6 @@ with open('pokemon.txt', 'w+') as pokemon_file:
     # Then in a for loop call the API to retrieve the data for each pokemon
     for my_pokemon in pokemon_list:
 
-
-
         url = 'https://pokeapi.co/api/v2/pokemon/{}/'.format(my_pokemon)
         response = requests.get(url)
         print(response)
@@ -26,4 +24,4 @@ with open('pokemon.txt', 'w+') as pokemon_file:
 
         moves = pokemon['moves']
         for move in moves:
-            print(move['move']['name'])
+            pokemon_file.write(f" - {move['move']['name']}\n")
