@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9267d7c-bbaf-4399-aaee-1019751b2c68" name="Changes" comment="add week 4 homework question 2">
-      <change afterPath="$PROJECT_DIR$/week4/Homework/Q3.py" afterDir="false" />
+    <list default="true" id="f9267d7c-bbaf-4399-aaee-1019751b2c68" name="Changes" comment="add week 3 homework">
+      <change afterPath="$PROJECT_DIR$/week5/exercises/starter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6/mycsv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6/people.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6/pokemon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6/redwrite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6/team.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6/todo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6/trees.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6/week5 homework/poem.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6/week5 homework/pokemon.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6/week5 homework/q1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6/week5 homework/q2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6/week5 homework/q3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/week3homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework/week3homework.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week4/exercise 4.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/week4/exercise 4.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/Homework/Q2.py" beforeDir="false" afterPath="$PROJECT_DIR$/week4/Homework/Q2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/Homework/Q3.py" beforeDir="false" afterPath="$PROJECT_DIR$/week4/Homework/Q3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,91 +51,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/PycharmProjects/cfg-python&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.exercise 4.1">
-    <configuration name="Q2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="cfg-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4/Homework" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4/Homework/Q2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Q3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="cfg-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4/Homework" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4/Homework/Q3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="exercise 4.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="cfg-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4/exercise 4.1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="exercise 4.7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="cfg-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4/exercise 4.7.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.q3">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="cfg-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,7 +73,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="recap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="mycsv" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cfg-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,11 +81,95 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4/recap.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\HP\PycharmProjects\cfg-python\week6\mycsv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pokemon" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cfg-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week6/pokemon.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="q2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cfg-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week6/week5 homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week6/week5 homework/q2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="q3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cfg-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week6/week5 homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week6/week5 homework/q3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="redwrite" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cfg-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week6/redwrite.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.exercise 4.1" />
-        <item itemvalue="Python.Q3" />
-        <item itemvalue="Python.Q2" />
-        <item itemvalue="Python.recap" />
-        <item itemvalue="Python.exercise 4.7" />
+        <item itemvalue="Python.q3" />
+        <item itemvalue="Python.q2" />
+        <item itemvalue="Python.pokemon" />
+        <item itemvalue="Python.mycsv" />
+        <item itemvalue="Python.redwrite" />
       </list>
     </recent_temporary>
   </component>
@@ -311,7 +323,42 @@
       <option name="project" value="LOCAL" />
       <updated>1671108791446</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="add python files">
+      <created>1672925553982</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1672925553982</updated>
+    </task>
+    <task id="LOCAL-00020" summary="add workspace">
+      <created>1672925565440</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1672925565440</updated>
+    </task>
+    <task id="LOCAL-00021" summary="add exercise 4.4">
+      <created>1672925578645</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1672925578645</updated>
+    </task>
+    <task id="LOCAL-00022" summary="add week 4 question 3 homework">
+      <created>1672925598382</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1672925598382</updated>
+    </task>
+    <task id="LOCAL-00023" summary="add week 3 homework">
+      <created>1672925611731</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1672925611731</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -334,16 +381,19 @@
     <MESSAGE value="add exercise 4.3" />
     <MESSAGE value="add exercise 4.1" />
     <MESSAGE value="add exercise 4.2" />
-    <MESSAGE value="add exercise 4.4" />
     <MESSAGE value="add exercise 4.5" />
     <MESSAGE value="add exercise 4.6" />
     <MESSAGE value="add exercise 4.7" />
-    <MESSAGE value="add week 3 homework" />
     <MESSAGE value="add week 4 starter" />
     <MESSAGE value="add week 4 recap session" />
     <MESSAGE value="add week 4 homework question 1" />
     <MESSAGE value="add week 4 homework question 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add week 4 homework question 2" />
+    <MESSAGE value="add python files" />
+    <MESSAGE value="add workspace" />
+    <MESSAGE value="add exercise 4.4" />
+    <MESSAGE value="add week 4 question 3 homework" />
+    <MESSAGE value="add week 3 homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="add week 3 homework" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
