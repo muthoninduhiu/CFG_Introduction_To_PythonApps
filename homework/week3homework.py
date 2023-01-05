@@ -24,7 +24,7 @@ print('You cannot afford the board hire')
 """
 my_money = input('How much money do you have? ')
 boat_cost = 20 + 5
-if int(my_money) < boat_cost:
+if int(my_money) >= boat_cost:
     print('You cannot afford the boat hire')
 else:
     print('You can afford the boat hire')
