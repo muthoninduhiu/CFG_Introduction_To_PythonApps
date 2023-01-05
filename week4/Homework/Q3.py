@@ -27,3 +27,31 @@ def ticket_making():
 print(ticket_making())
 
 print(ticket_making())
+import random
+
+ticket1_lottery = random.sample(range(1, 70), k=7)
+ticket2_lottery = random.sample(range(1, 70), k=7)
+
+t1 = sorted(ticket1_lottery)
+t2 = sorted(ticket2_lottery)
+
+print('Lottery ticket #1 {}'.format(t1))
+print('Lottery ticket #2 {}'.format(t2))
+
+points = 0
+for number in t2:
+   if number in t1:
+       points += 1
+"""
+if (points < 3):
+   print('None, try again.'.format(points))
+if (points == 3):
+   print('£20')
+if (points == 4):
+   print('£40')
+if (points == 5):
+   print('£100')
+if (points == 6):
+   print('£10,000')
+if (points == 7):
+   print('£1,000,000')"""

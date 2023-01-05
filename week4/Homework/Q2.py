@@ -24,3 +24,8 @@ elif which_chocolate == "vegan":
     print("Price: {}".format(chocolates['vegan']))
 else:
     print("Unfortunately we dont have that yet")
+
+
+choice = input('Which chocolate? white/milk/dark/vegan ')
+
+print(chocolates[choice])
