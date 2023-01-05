@@ -1,0 +1,8 @@
+Question 1
+You're having coffee/tea/beverage of your choice with a friend that is learning to program in
+Python. They're curious about why they would use pip.
+Explain what pip is and one benefit of using pip.
+
+
+You can install additional libraries that were created by someone else and on top of
+that they need not be part of the standard python libraries

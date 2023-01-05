@@ -1,0 +1,12 @@
+name: bulbasaur'
+moves: 
+name: pikachu'
+moves: 
+name: eevee'
+moves: 
+name: charmander'
+moves: 
+name: squirtle'
+moves: 
+name: mewtwo'
+moves: 
