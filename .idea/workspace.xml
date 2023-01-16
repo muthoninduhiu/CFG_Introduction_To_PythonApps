@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9267d7c-bbaf-4399-aaee-1019751b2c68" name="Changes" comment="complete homework question 3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week6/week5 homework/q3.py" beforeDir="false" afterPath="$PROJECT_DIR$/week6/week5 homework/q3.py" afterDir="false" />
-    </list>
+    <list default="true" id="f9267d7c-bbaf-4399-aaee-1019751b2c68" name="Changes" comment="add comments to homework question three" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -386,7 +383,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672951759851</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="add comments to homework question three">
+      <created>1672952434568</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1672952434568</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -401,7 +405,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add git ignore" />
     <MESSAGE value="add amount of cat food" />
     <MESSAGE value="add project files" />
     <MESSAGE value="add exercise files" />
@@ -426,7 +429,8 @@
     <MESSAGE value="add week 5 homework" />
     <MESSAGE value="add week 5 class work" />
     <MESSAGE value="complete homework question 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete homework question 3" />
+    <MESSAGE value="add comments to homework question three" />
+    <option name="LAST_COMMIT_MESSAGE" value="add comments to homework question three" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
