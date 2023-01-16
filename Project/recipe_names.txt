@@ -1,0 +1,66 @@
+Name: Crunchy Cauliflower Cheese
+The Ingredients: ['25.0g toasted hazelnuts , crushed', '300.0g tub cheese sauce', '100.0g Swiss cheese such as Gruyère or emmental, grated', '1 large cauliflower (about 1kg/2lb 4oz), trimmed', '50.0g fresh breadcrumbs']
+
+Name: Roast sirloin of beef
+The Ingredients: ['2 tbsp vegetable oil or beef fat', '1-1.5kg/2lb 4-3lb 5oz sirloin of beef joint', '1 glass red wine', '400g can beef consommé']
+
+Name: Beef Tea
+The Ingredients: ['8 ounces beef chuck steak, cut into 1/2-inch cubes', '1/4 teaspoon salt', '3 cups water']
+
+Name: Beef Tacos
+The Ingredients: ['1/2 medium onion chopped', '2 cloves garlic minced', '1 lbs sliced or lean ground beef', '2 Tbs chili powder', '1 tsp kosher salt', '1/2 tsp sugar', '12 corn tortillas', '1 recipe salsa verde', 'cilantro', 'lime wedges']
+
+Name: Beef Brisket
+The Ingredients: ['3 to 4 lbs of a brisket cut of beef', '3/4 cup barbeque sauce', '1/4 cup soy sauce', '1 cup of water']
+
+Name: Barbecued Beef Brisket
+The Ingredients: ['2 tbsp. chili powder', '1 tbsp. cayenne', '1 8-10-lb. beef brisket', '1 cup apple juice']
+
+Name: Portabello Beef Stew
+The Ingredients: ['1 pound beef stew meat', '2 tablespoons flour', '1 onion, sliced', '1 teaspoon dried thyme', '1/2 cup red wine', '15 ounces beef broth (1 can)', '2 carrots, sliced', '10 ounces baby portabello mushrooms']
+
+Name: Pioneer Woman’s Beef Brisket
+The Ingredients: ['2 cans Beef Consomme', '1/2 cup Lemon Juice', '1 1/2 cup Soy Sauce', '5 cloves Chopped Garlic', '2 tbsp Liquid Smoke', '10 pounds Beef Brisket']
+
+Name: Beef Goulash
+The Ingredients: ['1/4 cup unsalted butter', '1/4 cup olive oil', '5 pounds beef chuck, well trimmed, cut into 1-inch cubes', 'Salt and freshly ground black pepper', '5 pounds yellow onions, chopped', '1/4 cup hungarian paprika', '3 cups homemade beef stock', 'Sour cream, for garnish', '2 pounds broad egg noodles, cooked', 'Chopped chives, for garnish']
+
+Name: Beef stew
+The Ingredients: ['800 g lean stewing beef', '2 tablespoons plain flour', 'olive oil', '2 cloves of garlic', '1 handful of shallots', '2 sticks of celery', '4 carrots', '1 small bunch of thyme , (15g)', '4 ripe vine tomatoes', '150 ml red wine', '500 ml organic beef stock', '2 bay leaves', 'Worcestershire sauce']
+
+Name: Beef and Noodles recipes
+The Ingredients: ['1/2 yellow onion, thinly sliced', 'knob fresh ginger, minced', '1/2 stick of lemon grass, minced', 'zest from 1 lime', '2 tablespoons olive oil', '1/2 pound beef flank, thinly sliced', '3 cups of beef stock, preferabley homemade', '2 cups edamame', 'lime']
+
+Name: Dinner Tonight: Green Peas and Sugar Snap Peas in Sesame Dressing Recipe
+The Ingredients: ['3 cups green peas (freshly shelled or frozen)', '12 ounces sugar snap peas, trimmed', '2 tablespoons rice vinegar', '1 tablespoon soy sauce', '1 tablespoon sesame oil', '1 tablespoon brown sugar', '1 teaspoon kosher salt', '1/2 teaspoon black pepper']
+
+Name: Fresh Market Eggplant Gratin
+The Ingredients: ['2 teaspoons olive oil', '3 baby round eggplant or one large regular eggplant, sliced', '2 small red onions, sliced', '1 cup shitake mushrooms, diced (I use a combo of shitake and oyster)', '3 garlic cloves, minced', '1/2 cup basil loosely packed basil leaves and chopped', 'Salt and pepper', '1 cup light cream (or 1/2 milk and heavy cream)']
+
+Name: Eggplant Dip
+The Ingredients: ['1 small eggplant', '3 garlic cloves, skin on, if possible', 'Salt and pepper to taste', '3 tablespoons olive oil', '1 tablespoon sesame seeds', 'Juice from 1 lemon']
+
+Name: Hoisin-Glazed Eggplant recipes
+The Ingredients: ['1/4 cup hoisin sauce', '2 tablespoons canola oil', '4 baby eggplants (1 1/4 pounds) or 1 large eggplant, cut lengthwise into 1-inch-thick slices and scored', 'salt']
+
+Name: Fried Eggplant Sandwich With Eggplant Mayo Recipe
+The Ingredients: ['For the Eggplant Mayo:', '2 medium eggplants, about 1 1/2 pounds total', '1 cup canola oil', '1 clove garlic, grated on a microplane grater', '2 teaspoons juice from 1 lemon', '2 teaspoons dijon or whole grain mustard', 'Kosher salt', 'For the Tomato Sauce', '2 tablespoons extra virgin olive oil', '1 clove garlic, grated on a microplane grater', '1/4 teaspoon red pepper flakes', '1/2 teaspoon dried oregano leaves', '1 (28-ounce) can whole peeled tomatoes', 'For the Eggplant', '1/2 cup all-purpose flour', '1/2 cup water', '2 cups vegan bread crumbs', '1 quart vegetable oil for frying', '4 slices pizza bianca or other sandwich bread, lightly toasted']
+
+Name: Roasted Eggplant Spread recipes
+The Ingredients: ['1 large eggplant', '1 clove garlic, minced with 1 teaspoon salt, plus more salt as needed', 'juice of half a lemon', '2-4 tablespoons olive oil']
+
+Name: Healthy Eggplant Parmesan
+The Ingredients: ['1 large eggplant, sliced into ¼ inch thick slices', '1 ½ cups canned tomato sauce', '1 teaspoon oregano', '1 teaspoon basil', '½ cup shredded cheese (see note below)', 'Salt and pepper, to taste']
+
+Name: Grilled Eggplant
+The Ingredients: ['2 small or 1 large eggplant (about 1¼-1½ pounds total), sliced into ½-inch-thick rounds', '2 tablespoons extra-virgin olive oil', '¼ teaspoon salt']
+
+Name: Spicy Eggplant
+The Ingredients: ['1 jalapeno pepper', '1 red cherry pepper', '3 sweet peppers (red, green, and purple)', '2 cups chopped kale', '1 large tomato', '1 red onion', '1 black beauty eggplant', '1 small white asian eggplant', '1/4 cup extra virgin olive oil', '1 lemon juice and zest', 'Salt and pepper to taste']
+
+Name: Zucchini, Eggplant, Tomato Gratin recipes
+The Ingredients: ['3 Tbsp olive oil', '2 cups sliced yellow onion (1 large onion)', '1 cup of sliced red, orange, or yellow bell peppers', '1 long eggplant (a slender eggplant like a Japanese eggplant, not a large globe, about 1/2 pound)', '1 large zucchini (about 10 to 12 inches long, 1 1/2 inch diameter, about 1/2 pound), or other summer squash', '2 medium sized tomatoes', '3 cloves of garlic, peeled and smashed', '1 1/2 teaspoons salt', '2 Tbsp chopped fresh parsley', '2 ounces Provolone cheese, sliced or grated', '3 Tbsp grated Parmesan cheese']
+
+Name: Fried Eggplant
+The Ingredients: ['6 to 8 cups extra virgin olive oil, for deep-frying', '2 large eggs', '1 cup dried bread crumbs', '1 large eggplant, cut into 3-inch-long, ½-inch-thick sticks (with the skin)', 'Coarse sea salt']
+
