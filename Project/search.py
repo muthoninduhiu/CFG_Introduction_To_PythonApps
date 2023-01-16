@@ -29,8 +29,8 @@ def user_input():
         Function that asks for user  input and uses that to search an API
         """
     ingredient = input('Enter an ingredient: ')
-    results = recipe_search(ingredient)
-    for result in results:
+    search_results = recipe_search(ingredient)
+    for result in search_results:
         recipes = result['recipe']
         # print(recipes['label'])
         # print(recipe['label'])
@@ -39,9 +39,20 @@ def user_input():
             anyone with an idea how i can go about that or it stays this way?
         """
         with open('recipe_names.txt', 'a+') as recipe_details:
-            recipe_details.write("Name: {}\nThe Ingredients: {}\n"
-                                 .format(recipes['label'], str(recipes['ingredientLines'])))
+            recipe_details.write("Name: {}\nThe Ingredients: {}\nWeight: {}\nCuisine Type: {}\n"
+                                 .format(recipes['label'],
+                                         recipes['ingredientLines'],
+                                         recipes['totalWeight'],
+                                         recipes['cuisineType']))
             recipe_details.write("\n")
 
 
 user_input()
+
+
+def read_text():
+    with open('recipe_names.txt', 'r') as text_file:
+        contents = text_file.read()
+        print(contents)
+
+
