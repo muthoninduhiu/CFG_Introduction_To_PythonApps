@@ -8,7 +8,8 @@ def user_input():
     """
         :Purpose: Get user input and use it to pull data from the API
         :return: has no return type
-        Function that asks for user  input and uses that to search an API
+        Function that asks for user  input and uses that to search for the value in the API
+        then save the results to a file
         """
     list_of_recipes = recipe_search(ingredient)
 
@@ -31,6 +32,10 @@ def user_input():
 
 # Display the recipes for each search result
 def read_text():
+    """
+            :Purpose: Read data in the text file and display it
+            :return: has no return type
+            """
     with open('recipe_names.txt', 'r') as text_file:
         contents = text_file.read()
         print(contents)
