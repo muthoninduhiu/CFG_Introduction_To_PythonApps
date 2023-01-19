@@ -1,0 +1,60 @@
+Name: Strong Cheese
+The Ingredients: ['1 lb left-over cheese, at room temperature', '1/4 cup dry white wine', '3 tbsp unsalted butter, softened', '2 tbsp fresh parsley leaves', '1 small clove garlic']
+Weight: None
+Cuisine Type: ['italian']
+Health Label: ['Sugar-Conscious', 'Low Potassium', 'Keto-Friendly', 'Vegetarian', 'Pescatarian', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Kosher']
+
+Name: Goat Cheese Soufflé
+The Ingredients: ['¼ cup (60g) full-fat cream cheese', '4 large eggs, separated, at room temperature', '4 ounces (115g) fresh goat cheese', 'grated zest of 1 lemon', '4 tablespoons (50g) sugar', 'pinch of salt']
+Weight: None
+Cuisine Type: ['french']
+Health Label: ['Low Potassium', 'Kidney-Friendly', 'Vegetarian', 'Pescatarian', 'Gluten-Free', 'Wheat-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added', 'Kosher']
+
+Name: Pimento Cheese
+The Ingredients: ['1 lb Cheddar cheese, grated', '1/4 lb Cream Cheese,softened', '3/4 tsp freshly ground white pepper', '2 x Red Bell Peppers(large),roasted), peeled, seeded and diced', '1/4 cup Mayonnaise or homemade (best-quality commercial )', '1 tsp Granulated Sugar', '5 Splashes Hot Sauce', '1/8 tsp Cayenne Pepper', '1 pinch salt']
+Weight: None
+Cuisine Type: ['south american']
+Health Label: ['Sugar-Conscious', 'Low Potassium', 'Kidney-Friendly', 'Keto-Friendly', 'Vegetarian', 'Pescatarian', 'Gluten-Free', 'Wheat-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Kosher']
+
+Name: Cheese Crackers Recipe
+The Ingredients: ['1 1/2 cups (6 3/4 ounces) bread flour', '1/2 cup warm water', '1 teaspoon instant yeast', '1 tablespoon sugar', '1/4 teaspoon salt', '1 ounce finely grated firm cheese', '2 ounces soft cheese, cut in cubes']
+Weight: None
+Cuisine Type: ['british']
+Health Label: ['Sugar-Conscious', 'Low Potassium', 'Kidney-Friendly', 'Vegetarian', 'Pescatarian', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added', 'Kosher']
+
+Name: Cheese Omelette
+The Ingredients: ['1 organic large egg', '1 teaspoon whole milk or water', '1 tablespoon cheddar cheese, shredded (you can use other types of cheese)', '1 teaspoon butter or oil']
+Weight: None
+Cuisine Type: ['french']
+Health Label: ['Sugar-Conscious', 'Low Potassium', 'Kidney-Friendly', 'Keto-Friendly', 'Vegetarian', 'Pescatarian', 'Gluten-Free', 'Wheat-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Sulfite-Free', 'Kosher', 'Immuno-Supportive']
+
+Name: Goat Cheese Frosting
+The Ingredients: ['1 pound cream cheese, room temperature', '8 ounces soft goat cheese, room temperature', "1/2 cup confectioners' sugar"]
+Weight: None
+Cuisine Type: ['american']
+Health Label: ['Low Potassium', 'Kidney-Friendly', 'Vegetarian', 'Pescatarian', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added', 'Kosher']
+
+Name: Cheese straws
+The Ingredients: ['375g/13oz plain flour', 'Pinch salt', '225g/8oz butter, diced', '150g/5½oz mature cheddar cheese', '50g/1¾oz freshly grated parmesan cheese (or a similar vegetarian hard cheese)', 'Pinch english mustard powder', 'Small pinch cayenne pepper', '2 free-range eggs, yolks only']
+Weight: None
+Cuisine Type: ['american']
+Health Label: ['Sugar-Conscious', 'Low Potassium', 'Kidney-Friendly', 'Vegetarian', 'Pescatarian', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Sulfite-Free', 'Kosher', 'Immuno-Supportive']
+
+Name: CHEESE GOOP
+The Ingredients: ['1 cup asiago cheese, grated', '1 cup fontina cheese, grated', '1 cup parmesan, grated', '1 cup mayonnaise', '3/4 cup olive oil', '1 tablespoon dried basil', '1 tablespoon red pepper flakes', '1/4 cup green onions, chopped']
+Weight: None
+Cuisine Type: ['italian']
+Health Label: ['Sugar-Conscious', 'Low Potassium', 'Kidney-Friendly', 'Keto-Friendly', 'Vegetarian', 'Pescatarian', 'Gluten-Free', 'Wheat-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Sulfite-Free', 'Kosher']
+
+Name: Pimento Cheese
+The Ingredients: ['4 ounces, weight Cream Cheese, Softened', '1/2 cup Mayonnaise', '1 Tablespoon Dijon Mustard (more To Taste)', '1 Tablespoon Adobo Sauce From Canned Chipotles (more To Taste)', '1/2 teaspoon Black Pepper', '8 ounces, weight Sharp Cheddar Cheese, Grated', '8 ounces, weight Monterey Jack Or Mozzarella Cheese, Grated', '4 ounces, weight Sliced Pimentos, Drained', '2 teaspoons Chopped Fresh Dill']
+Weight: None
+Cuisine Type: ['south american']
+Health Label: ['Sugar-Conscious', 'Low Potassium', 'Kidney-Friendly', 'Keto-Friendly', 'Vegetarian', 'Pescatarian', 'Gluten-Free', 'Wheat-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Sulfite-Free', 'Kosher']
+
+Name: Crunchy Cauliflower Cheese
+The Ingredients: ['25.0g toasted hazelnuts , crushed', '300.0g tub cheese sauce', '100.0g Swiss cheese such as Gruyère or emmental, grated', '1 large cauliflower (about 1kg/2lb 4oz), trimmed', '50.0g fresh breadcrumbs']
+Weight: None
+Cuisine Type: ['american']
+Health Label: ['Vegetarian', 'Pescatarian', 'Mediterranean', 'Egg-Free', 'Peanut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Sulfite-Free', 'Kosher']
+
