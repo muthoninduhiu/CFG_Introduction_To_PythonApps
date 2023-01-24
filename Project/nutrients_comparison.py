@@ -8,6 +8,7 @@ from decouple import config
 APP_ID = config('APP_ID2')
 APP_KEY = config('APP_KEY2')
 
+
 # Cross-reference the ingredient against the Edamam nutrition analysis API
 
 
