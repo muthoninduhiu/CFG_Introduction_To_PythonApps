@@ -21,8 +21,14 @@ def comparison_check():
         Function that takes search term input by user as
         an argument and returns a list of recipe(s) that match the search term.
         """
-    url = requests.get('https://api.edamam.com/api/nutrition-data?app_id={}&app_key={}&ingr={}'
-                       .format(APP_ID, APP_KEY, ingredient))
+    url = requests.get('https://api.edamam.com/api/nutrition-data',
+                       headers={'Accept': 'application/json'},
+                       params={
+                           'app_id': APP_ID,
+                           'app_key': APP_KEY,
+                           'type': 'any',
+                           'q': ingredient,
+                       })
 
     data = url.json()
     print("Cross reference ingredient nutrition analysis api result:")
@@ -35,3 +41,6 @@ def comparison_check():
 user_input()
 read_text()
 comparison_check()
+print('\nBye, thank you for searching with us!!!')
+
+
