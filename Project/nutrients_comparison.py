@@ -1,7 +1,9 @@
 import requests
 from user_input import ingredient
 from user_input import user_input
-from user_input import read_text
+from save_to_file import read_text, write_to_file
+from diet_mealType import extra_parameters
+
 import pprint
 from decouple import config
 
@@ -27,7 +29,7 @@ def comparison_check():
                            'app_id': APP_ID,
                            'app_key': APP_KEY,
                            'type': 'any',
-                           'q': ingredient,
+                           'ingr': ingredient,
                        })
 
     data = url.json()
@@ -38,9 +40,18 @@ def comparison_check():
     # print(data['hits']['recipe']['label'])
 
 
+extra_parameters()
 user_input()
-read_text()
 comparison_check()
+save = input('Would you like to save your work to a file?(Yes/No)')
+if save == 'yes':
+    write_to_file()
+else:
+    None
+read = input('Would you like to read your saved work?(Yes/No)')
+if read == 'yes':
+    read_text()
+else:
+    None
+read_text()
 print('\nBye, thank you for searching with us!!!')
-
-
