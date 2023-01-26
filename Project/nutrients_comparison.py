@@ -46,12 +46,7 @@ comparison_check()
 save = input('Would you like to save your work to a file?(Yes/No)')
 if save == 'yes':
     write_to_file()
-else:
-    None
 read = input('Would you like to read your saved work?(Yes/No)')
 if read == 'yes':
     read_text()
-else:
-    None
-read_text()
 print('\nBye, thank you for searching with us!!!')
