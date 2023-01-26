@@ -1,0 +1,120 @@
+Name: Mango & passionfruit ice
+The Ingredients: ['1l carton of mango & passionfruit smoothie', '4 passion fruits , halved', '1 mango , peeled, stoned and sliced']
+Weight: 1405.5136697043686
+Cuisine Type: ['american']
+Health Label: ['Vegan', 'Vegetarian', 'Pescatarian', 'Paleo', 'Mediterranean', 'DASH', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added', 'Sulfite-Free', 'Kosher', 'Immuno-Supportive']
+
+Name: Green Mango FroYo
+The Ingredients: ['1 keitt green mango or any mango, cubed', '3 tablespoons honey, or more to taste', '2 cups greek yogurt (i like fage total)']
+Weight: 975.0
+Cuisine Type: ['american']
+Health Label: ['Kidney-Friendly', 'Vegetarian', 'Pescatarian', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added', 'Kosher']
+
+Name: Mango Pudding
+The Ingredients: ['1 cup hot water', '1 cup evaporated milk', '3 packets unflavored gelatin', '1 1/2 cups mango puree (about 2 medium size mango)', '1/4 cup fresh mango pieces of about 1/4-inch cubes (optional)', '1/3 cup sugar', 'Additional evaporated milk for topping']
+Weight: 928.4166666666666
+Cuisine Type: ['british']
+Health Label: ['Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added']
+
+Name: Mango Sauce
+The Ingredients: ['1 ripe mango', '2 tablespoons freshly squeezed Meyer lemon juice', '1 1/2 tablespoons sugar']
+Weight: 385.24999999916747
+Cuisine Type: ['indian']
+Health Label: ['Kidney-Friendly', 'Vegan', 'Vegetarian', 'Pescatarian', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added', 'Kosher']
+
+Name: Raspado De Mango (Mango Ice)
+The Ingredients: ['4 cups bottled or fresh mango juice or nectar', '1 cup sugar', 'Â½ tsp. kosher salt', '2 tbsp. fresh lime juice']
+Weight: 1237.2270833329358
+Cuisine Type: ['caribbean']
+Health Label: ['Low Potassium', 'Kidney-Friendly', 'Vegan', 'Vegetarian', 'Pescatarian', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added', 'Kosher']
+
+Name: Mango Salsa
+The Ingredients: ['1 ripe mango, peeled, pitted, and finely diced (about 1 1/2 cup) (See: How to Cut a Mango)', '2 Tbsp finely chopped red onion', '1/2 Jalapeño chile, minced (less or more to taste, make sure to actually taste the chile first, some of them can be quite hot!)', '3 Tbsp fresh cilantro leaves, chopped', '3 Tbsp fresh lime juice']
+Weight: 323.6999999991682
+Cuisine Type: ['mexican']
+Health Label: ['Low Potassium', 'Kidney-Friendly', 'Vegan', 'Vegetarian', 'Pescatarian', 'Paleo', 'Mediterranean', 'DASH', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added', 'Sulfite-Free', 'Kosher', 'Immuno-Supportive']
+
+Name: Mango Lassi
+The Ingredients: ['4 mango slices for garnish (optional)', '2½ cups (20 oz.) icy-cold rich milk, buttermilk , or yogurt', '¼ cup superfine sugar or honey', '1 large mango , peeled and chopped, or 1 cup mango pulp']
+Weight: 1182.9904625
+Cuisine Type: ['indian']
+Health Label: ['Vegetarian', 'Pescatarian', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added', 'Kosher']
+
+Name: Mango Puddings
+The Ingredients: ['2 1/4 to 2 3/4 lb very ripe mangoes (4 or 5)', '1 (1/4-oz) envelope unflavored gelatin', '1 1/4 cups water', '1/2 cup sugar', '3/4 cup canned evaporated milk', 'Garnish: 1 mango, peeled, pitted, and diced']
+Weight: 2062.3183057812503
+Cuisine Type: ['british']
+Health Label: ['Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added']
+
+Name: Broiled Mango
+The Ingredients: ['1 mango, peeled and sliced (see Tip)', 'Lime wedges']
+Weight: 344.375
+Cuisine Type: ['american']
+Health Label: ['Vegan', 'Vegetarian', 'Pescatarian', 'Paleo', 'Mediterranean', 'DASH', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added', 'Sulfite-Free', 'Kosher', 'Immuno-Supportive']
+
+Name: Mango Salsa
+The Ingredients: ['1 cup store-bought refrigerated fresh salsa', '1 mango, cut into 1/4-inch pieces']
+Weight: 596.0
+Cuisine Type: ['mexican']
+Health Label: ['Kidney-Friendly', 'Vegan', 'Vegetarian', 'Pescatarian', 'Paleo', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added', 'Sulfite-Free', 'Kosher']
+
+Name: Mango Hummus
+The Ingredients: ['1 can chickpeas, rinsed and drained(15-oz)', '1/2 cup diced mango (about half a mango)', '1 x clove garlic, sliced', 'Freshly ground pepper to taste', '¼ cup Extra Virgin Olive Oil']
+Weight: 566.437075415625
+Cuisine Type: ['mediterranean']
+Health Label: ['Low Potassium', 'Kidney-Friendly', 'Vegan', 'Vegetarian', 'Pescatarian', 'Mediterranean', 'DASH', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Sulfite-Free', 'Kosher']
+
+Name: Mango Infusion
+The Ingredients: ['1 heaping cup of frozen mango chunks', '1/2 medium banana (frozen or room temperature)', '1 cup orange juice']
+Weight: 472.0
+Cuisine Type: ['american']
+Health Label: ['Vegan', 'Vegetarian', 'Pescatarian', 'Paleo', 'Mediterranean', 'DASH', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added', 'Sulfite-Free', 'Kosher', 'Immuno-Supportive']
+
+Name: Mango Bellini
+The Ingredients: ['3 ounces sparkling wine, such as prosecco or champagne', '2 ounces mango nectar or juice', 'Sliced mango, for garnish']
+Weight: 141.747615625
+Cuisine Type: ['italian']
+Health Label: ['Vegan', 'Vegetarian', 'Pescatarian', 'Mediterranean', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'No oil added', 'Kosher']
+
+Name: Mango Mimosa recipes
+The Ingredients: ['4 mangoes', '1 mango', '1 bottle champagne']
+Weight: 2425.599200575638
+Cuisine Type: ['world']
+Health Label: ['Vegan', 'Vegetarian', 'Pescatarian', 'Paleo', 'Mediterranean', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'No oil added', 'Kosher', 'Alcohol-Cocktail']
+
+Name: Mango-Yogurt Sherbet
+The Ingredients: ['10 oz (1 3/4 cups) chopped frozen mango', '1 cup 2 percent Greek yogurt', '3 tablespoons honey', '2 tablespoons orange juice or mango nectar', 'Sliced fresh mango for garnish (optional)']
+Weight: 665.4952312494759
+Cuisine Type: ['british']
+Health Label: ['Vegetarian', 'Pescatarian', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added', 'Kosher']
+
+Name: The Mango Lime Rickey
+The Ingredients: ['2 Ounces Van Gogh mango vodka', '1/2 Ounce fresh lime juice', '1 Ounce mango puree']
+Weight: 99.22333093750001
+Cuisine Type: ['world']
+Health Label: ['Low Potassium', 'Kidney-Friendly', 'Keto-Friendly', 'Vegan', 'Vegetarian', 'Pescatarian', 'Paleo', 'Mediterranean', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'No oil added', 'Sulfite-Free', 'Kosher', 'Alcohol-Cocktail']
+
+Name: Mango Lassie
+The Ingredients: ['1 pt. mango sorbet', '1 c. coconut milk', '3/4 c. frozen mango chunks', '1 tbsp. lime zest', '1 tbsp. lime juice', 'Toasted flaked coconut, for serving']
+Weight: 917.1499999997396
+Cuisine Type: ['american']
+Health Label: ['Vegan', 'Vegetarian', 'Pescatarian', 'Paleo', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added', 'Sulfite-Free', 'Kosher']
+
+Name: Mango Mimosa
+The Ingredients: ['4 mangoes, very ripe and diced', '1 mango, cut into 1/2-inch cubes, for garnish', '1 bottle(s) (750-milliliter) champagne, such as Mumm Napa Brut Prestige']
+Weight: 2425.599200575638
+Cuisine Type: ['world']
+Health Label: ['Vegan', 'Vegetarian', 'Pescatarian', 'Paleo', 'Mediterranean', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'No oil added', 'Kosher', 'Alcohol-Cocktail']
+
+Name: Mango Fool
+The Ingredients: ['3 mangoes', '3/4 cup chopped mango', '1 1/2 cups 2% greek-style yogurt', '1/4 cup honey', '2 tbsp lemon juice']
+Weight: 1678.9999999994843
+Cuisine Type: ['american']
+Health Label: ['Vegetarian', 'Pescatarian', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added', 'Kosher']
+
+Name: Mango Citrus Popsicles
+The Ingredients: ['Flesh from 1 mango', 'Juice from 1 orange', 'Juice from 1 grapefruit', '3 tbsp honey']
+Weight: 766.0
+Cuisine Type: ['american']
+Health Label: ['Vegetarian', 'Pescatarian', 'Paleo', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added', 'Kosher']
+
