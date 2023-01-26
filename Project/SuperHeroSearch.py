@@ -1,6 +1,8 @@
 import pprint
-
+from decouple import config
 import requests
+
+RAPID_API_KEY = config('RAPID_API_KEY')
 
 print("Hello welcome to our heroes and villains search API :-)")
 
@@ -10,7 +12,7 @@ url = "https://superhero-search.p.rapidapi.com/api/"
 querystring = input("Which hero or villain would you like to search for?")
 
 headers = {
-    "X-RapidAPI-Key": "4f68a4da7bmsh4320fb69e248469p121f6djsn6ba74950580d",
+    "X-RapidAPI-Key": RAPID_API_KEY,
     "X-RapidAPI-Host": "superhero-search.p.rapidapi.com"
 }
 
