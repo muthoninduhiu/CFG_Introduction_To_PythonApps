@@ -27,6 +27,7 @@ def user_input():
             for weight in list_of_recipes:
                 recipe_weight.append(weight['recipe']['totalWeight'])
                 # print(recipe_weight)
+                print(weight['recipe']['label']+": ")
                 print(sorted(recipe_weight))
 
             recipe_calories = []
