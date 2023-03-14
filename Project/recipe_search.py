@@ -1,4 +1,3 @@
-from typing import Any
 import requests
 from decouple import config
 
@@ -8,12 +7,10 @@ APP_KEY = config('APP_KEY')
 
 # Create a function that makes a request to the Edamam API with the required ingredient as
 # part of the search query (also included your Application ID and Application Key
-def recipe_search(search_term, meal_type, diet):
+def recipe_search(search_term: str):
     """
     :Purpose: Search for recipes from the web via an API.
     :param search_term: string - input chosen by user for a recipe.
-    :param meal_type
-    :param diet
     :return: a list of recipe(s) that match the search term by user.
 
     Function that takes search term input by user as
@@ -23,16 +20,11 @@ def recipe_search(search_term, meal_type, diet):
     # ingr=5-8&diet=balanced&
     # health=alcohol-cocktail&cuisineType=American&mealType=Breakfast&dishType=Biscuits%20and%20cookies&calories=200-100"
     # ingr,diet,health,cuisineType,mealType,dishType,calories
-    url = requests.get('https://api.edamam.com/api/recipes/v2',
-                       headers={'Accept': 'application/json'},
-                       params={
-                           'app_id': APP_ID,
-                           'app_key': APP_KEY,
-                           'q': search_term,
-                       })
+    url = requests.get("https://api.edamam.com/api/recipes/v2?type=public&q={}&app_id="
+                       "{}&app_key={}"
+                       .format(search_term, APP_ID, APP_KEY))
 
     data = url.json()
     # print(requests.get(url))
     # print(data['hits']['recipe']['label'])
-    print(data)
     return data['hits']
