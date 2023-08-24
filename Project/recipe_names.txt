@@ -1,0 +1,366 @@
+Name: Essentials: Rice
+The Ingredients: ['1 cup long-grain white rice', '1 3/4 cup water', 'Pinch of salt', 'Glug of olive oil']
+Weight: 618.4279791671553
+Cuisine Type: ['chinese']
+Health Label: ['Sugar-Conscious', 'Low Sugar', 'Low Potassium', 'Kidney-Friendly', 'Vegan', 'Vegetarian', 'Pescatarian', 'Mediterranean', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Sulfite-Free', 'FODMAP-Free', 'Kosher']
+
+Name: Rice Cereal Bars
+The Ingredients: ['4 tbsp butter', '10 oz homemade marshmallows', '6 cup crispy rice cereal', '1/4 tsp salt']
+Weight: 425.79523125000003
+Cuisine Type: ['american']
+Health Label: ['Low Potassium', 'Kidney-Friendly', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free']
+
+Name: Perfect Sushi Rice
+The Ingredients: ['1 cup Rice Wine Vinegar', '1/2 cup Sugar', '1/4 cup Sake Or Mirin (a Japanese Rice Wine)', '4 cups Short Grain/sushi Rice']
+Weight: 397.0
+Cuisine Type: ['japanese']
+Health Label: ['Low Potassium', 'Kidney-Friendly', 'Vegan', 'Vegetarian', 'Pescatarian', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'No oil added', 'Kosher']
+
+Name: Rice-Milk Rice Pudding
+The Ingredients: ['2/3 cup long-grain brown rice (see headnote)', '1 1/2 cups cold water', '1/4 cup long-grain brown rice', '2 cups hot water', '2/3 cup light brown sugar', '1 pinch salt, plus more to taste']
+Weight: 1100.7135416671488
+Cuisine Type: ['british']
+Health Label: ['Low Potassium', 'Kidney-Friendly', 'Vegan', 'Vegetarian', 'Pescatarian', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added', 'FODMAP-Free', 'Kosher']
+
+Name: Cooked Basmati Rice
+The Ingredients: ['1 cup basmati rice', '1/4 teaspoon salt']
+Weight: 186.08613395944064
+Cuisine Type: ['chinese']
+Health Label: ['Sugar-Conscious', 'Low Potassium', 'Kidney-Friendly', 'Vegan', 'Vegetarian', 'Pescatarian', 'Mediterranean', 'DASH', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added', 'Sulfite-Free', 'FODMAP-Free', 'Kosher']
+
+Name: Rainbow rice
+The Ingredients: ['100g basmati rice , long grain rice or brown rice', '1small red pepper , deseeded and finely chopped', '½ cucumber , deseeded and finely chopped', '1large carrot , grated', '6 dried apricots , chopped', '2 tbsp toasted pumpkin seed or sunflower seeds', '2 tbsp olive oil', '½ orange , juice only']
+Weight: 547.1249999997274
+Cuisine Type: ['american']
+Health Label: ['Vegan', 'Vegetarian', 'Pescatarian', 'Mediterranean', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Kosher']
+
+Name: Yellow Rice
+The Ingredients: ['2 teaspoons vegetable oil', '2 tablespoons chopped shallot', '1 garlic clove, chopped', '1 1/2 cups jasmine rice or basmati rice, well rinsed', '2 1/4 cups low-salt chicken broth', '1 teaspoon (scant) salt', '1/2 teaspoon (scant) turmeric']
+Weight: 855.9790029763648
+Cuisine Type: ['chinese']
+Health Label: ['Sugar-Conscious', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Sulfite-Free', 'Kosher']
+
+Name: Basic Sushi Rice Recipe
+The Ingredients: ['3 cups Japanese short-grain rice, rinsed several times', '1/3 cup rice vinegar', '3 tablespoons sugar', '1 teaspoon salt']
+Weight: 706.0241783539386
+Cuisine Type: ['japanese']
+Health Label: ['Low Potassium', 'Kidney-Friendly', 'Vegan', 'Vegetarian', 'Pescatarian', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added', 'FODMAP-Free', 'Kosher']
+
+Name: Sweet Cinnamon Rice Pudding
+The Ingredients: ['2 cup rice milk (this makes the recipe dairy-free!)', '1/2 cup mochi sweet rice (or just less. You need 20 teaspoons of rice)', '8 tsp Sugar', '1/8 tsp Saigon cinnamon (if your cinnamon is not that strong, add a bit more)']
+Weight: 611.4250000000001
+Cuisine Type: ['british']
+Health Label: ['Low Potassium', 'Kidney-Friendly', 'Vegan', 'Vegetarian', 'Pescatarian', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added', 'FODMAP-Free', 'Kosher']
+
+Name: Green Rice
+The Ingredients: ['1 cup (240 ml) brown rice', '5 cups (1 l) water', '½ cup chopped parsley', '¼ cup sesame seeds', '1 tablespoon olive oil', '1 tablespoon soy sauce']
+Weight: 1288.2399294005052
+Cuisine Type: ['chinese']
+Health Label: ['Sugar-Conscious', 'Kidney-Friendly', 'Vegan', 'Vegetarian', 'Pescatarian', 'Mediterranean', 'Dairy-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Kosher']
+
+Name: Jasmine Rice
+The Ingredients: ['2 cups Thai jasmine rice', 'About 2½ cups water']
+Weight: 962.5
+Cuisine Type: ['south american']
+Health Label: ['Sugar-Conscious', 'Low Potassium', 'Kidney-Friendly', 'Vegan', 'Vegetarian', 'Pescatarian', 'Mediterranean', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added', 'Sulfite-Free', 'FODMAP-Free', 'Kosher']
+
+Name: Easy Rice Pudding
+The Ingredients: ['2 cups instant rice (such as Minute Rice)', '1/2 cup vanilla ice cream', '1/2 teaspoon ground cinnamon, plus more for garnishing (optional)']
+Weight: 457.3
+Cuisine Type: ['british']
+Health Label: ['Sugar-Conscious', 'Low Potassium', 'Kidney-Friendly', 'Vegetarian', 'Pescatarian', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Sulfite-Free', 'Kosher']
+
+Name: Wild Rice Pilaf
+The Ingredients: ['2⅓ cups reduced-sodium chicken broth', '½ cup wild rice, rinsed', '2 scallions (white parts only), thinly sliced', '¼ teaspoon ground pepper', '⅔ cup brown rice']
+Weight: 795.1694444444445
+Cuisine Type: ['mediterranean']
+Health Label: ['Sugar-Conscious', 'Kidney-Friendly', 'Mediterranean', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Sulfite-Free', 'Kosher']
+
+Name: Sushi Rice
+The Ingredients: ['3 cups short-grain white rice', '1/4 cup rice wine vinegar', '1/4 cup sugar', '1 teaspoon salt']
+Weight: 698.6475459518035
+Cuisine Type: ['japanese']
+Health Label: ['Low Potassium', 'Kidney-Friendly', 'Vegan', 'Vegetarian', 'Pescatarian', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added', 'FODMAP-Free', 'Kosher']
+
+Name: Rice Brittle Crunch
+The Ingredients: ['1 cup sugar', '2 tablespoons light corn syrup', '3 tablespoons water', '1 3/4 cups toasted rice cereal, preferably Rice Krispies', '3/4 cup banana chips, coarsely chopped', '1/2 cup salted roasted peanuts, coarsely chopped', '1/4 teaspoon baking soda']
+Weight: 493.460294343
+Cuisine Type: ['american']
+Health Label: ['Low Potassium', 'Kidney-Friendly', 'Vegan', 'Vegetarian', 'Pescatarian', 'Dairy-Free', 'Wheat-Free', 'Egg-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Kosher']
+
+Name: Wild Rice Flatbread recipes
+The Ingredients: ['2 cups cooked wild rice (or “instant” wild rice, wild rice blend, etc)', '½ cup water', '2 egg whites', '1 clove of garlic', '1 tbs. flaxseed meal', 'seasoning', '½ tbs. olive oil + salt + pepper', 'salt', 'pepper']
+Weight: 525.1158494033197
+Cuisine Type: ['american']
+Health Label: ['Sugar-Conscious', 'Vegetarian', 'Pescatarian', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Sulfite-Free', 'Kosher']
+
+Name: Wild Rice
+The Ingredients: ['1 c. wild rice', '2 c. water', '½ tsp. salt']
+Weight: 637.0
+Cuisine Type: ['chinese']
+Health Label: ['Sugar-Conscious', 'Kidney-Friendly', 'Vegan', 'Vegetarian', 'Pescatarian', 'Mediterranean', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added', 'Sulfite-Free', 'FODMAP-Free', 'Kosher']
+
+Name: Rice-Cooker Rice Pudding
+The Ingredients: ['3 3/4 Cups whole milk or coconut milk, divided', '1 Cup uncooked white rice', '1/2 Cup sugar', 'Cinnamon, to taste']
+Weight: 1213.63
+Cuisine Type: ['british']
+Health Label: ['Kidney-Friendly', 'Vegetarian', 'Pescatarian', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added', 'Kosher']
+
+Name: Sushi Rice And Seasoning
+The Ingredients: ['250 g sushi rice', '325 ml water', '2 tbsps sushi rice seasoning', '500 ml rice vinegar', '300 g sugar', '150 g salt']
+Weight: 1395.0244717028856
+Cuisine Type: ['japanese']
+Health Label: ['Low Potassium', 'Vegan', 'Vegetarian', 'Pescatarian', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added', 'FODMAP-Free', 'Kosher']
+
+Name: Wild Rice recipes
+The Ingredients: ['1.00 c. wild rice', '2.00 c. water', '0.50 tsp. salt']
+Weight: 637.0
+Cuisine Type: ['chinese']
+Health Label: ['Sugar-Conscious', 'Kidney-Friendly', 'Vegan', 'Vegetarian', 'Pescatarian', 'Mediterranean', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added', 'Sulfite-Free', 'FODMAP-Free', 'Kosher']
+
+Name: The Secret Ingredient (Turmeric): Maman's Yellow Peas and Onions Recipe
+The Ingredients: ['2 tablespoons olive oil', '1 large yellow onion, finely diced', '1 1/2 teaspoons turmeric', '2 pounds frozen peas', 'Salt']
+Weight: 1092.6689498920875
+Cuisine Type: ['french']
+Health Label: ['Vegan', 'Vegetarian', 'Pescatarian', 'Mediterranean', 'DASH', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Sulfite-Free', 'Kosher']
+
+Name: Seared Cod with Peas, Pancetta, and Wilted Lettuce Recipe
+The Ingredients: ['2 tablespoons olive oil', '4 cod or hake filets (about 6 ounces each)', 'Kosher salt and freshly ground black pepper', '4 ounces diced pancetta', '4 cups thawed frozen peas', '1 head of baby gem or romaine lettuce, finely sliced (about 2 cups)', '2 tablespoons of chopped flat leaf parsley, plus extra for garnish', '4 tablespoons crème fraîche']
+Weight: 1523.5629439928973
+Cuisine Type: ['american']
+Health Label: ['Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Shellfish-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Sulfite-Free']
+
+Name: Grilled Lemongrass Chicken with Red Quinoa and Vegetables
+The Ingredients: ['3 medium shallots, roughly chopped', '2 stalks fresh lemongrass (tough outer leaves removed)', '1 piece ginger (about 1 1/2 inches), peeled', '1/4 cup plus 5 teaspoons canola oil, divided', '1/4 cup fresh lime juice', '1 tablespoon tamari (or soy sauce)', '2 tablespoons light brown sugar', '1 1/2 teaspoons sea salt, plus more to taste', '1 teaspoon freshly ground black pepper', '1 teaspoon ground coriander', '4 boneless, skinless organic chicken breasts (about 5 ounces each)', '3/4 cup red quinoa', '1 1/2 cups chicken broth (or stock)', 'Vegetable oil cooking spray', '1 pound fresh sugar snap peas, strings removed', '1 red bell pepper, cored, seeded, and thinly sliced', '2 tablespoons chopped fresh mint']
+Weight: 2094.086534022064
+Cuisine Type: ['french']
+Health Label: ['Dairy-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Kosher']
+
+Name: The Secret Ingredient (Curry): Bombay Mussels with Peas
+The Ingredients: ['2 tablespoons butter', '4 scallions, sliced', '1 1/2 teaspoons curry powder', '1/4 cup water', '2/3 cup thawed frozen peas', '2 pounds mussels, soaked for an hour in a bowl of water with a spoonful of flour and a handful of ice', 'Kosher salt', 'Freshly ground black pepper', '1 cup heavy cream', 'Naan bread for serving']
+Weight: 1385.9552214190765
+Cuisine Type: ['mediterranean']
+Health Label: ['Pescatarian', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Alcohol-Free', 'Sulfite-Free']
+
+Name: Sack Lunch: Greek Salad with Orzo and Black-Eyed Peas Recipe
+The Ingredients: ['3/4 cup orzo', '1 (15-ounce) can black-eyed peas, drained and rinsed', '1 large tomato, diced (1 cup)', '2 tablespoons chopped flat-leaf parsley', '2 tablespoons red-wine vinegar', '2 tablespoons extra-virgin olive oil, divided', '1/2 seedless cucumber, halved lengthwise, cored, and diced (1 cup)', '1/2 cup pitted Kalamata olives, slivered', '1/3 cup thinly sliced red onion', '1 teaspoon grated lemon zest', '2 tablespoons fresh lemon juice', '1 tablespoon finely chopped oregano', '2 to 3 cups coarsely chopped romaine', '1/2 pound feta, crumbled (1 cup)', '4 to 8 peperoncini']
+Weight: 1315.1761802087508
+Cuisine Type: ['mediterranean']
+Health Label: ['Vegetarian', 'Pescatarian', 'Mediterranean', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Sulfite-Free', 'Kosher']
+
+Name: Easy Sausage and Pea Orzo Risotto Recipe
+The Ingredients: ['1 teaspoon olive oil', '10 ounces Italian sausage, removed from its casing', '1 medium shallot, minced (about 1/4 cup)', '1/2 pound orzo', '3 cups hot water or low-sodium homemade or store-bought vegetable or chicken stock', 'Kosher salt and freshly ground black pepper', '1 cup frozen peas', '1/4 cup finely grated Parmigiano Reggiano', 'A handful of chopped flat-leaf parsley (optional)']
+Weight: 1457.8283826869283
+Cuisine Type: ['italian']
+Health Label: ['Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Sulfite-Free']
+
+Name: French in a Flash: Pasta with Sweet Pea Pistou and Chèvre Recipe
+The Ingredients: ['1 pound fusilli pasta', 'Kosher salt', '2 cloves garlic', '1/2 cup fresh basil leaves, packed', '1/4 cup toasted pine nuts', '1/4 cup olive oil', '1/2 cup coarsely grated Pecorino Romano cheese', '1 pound thawed frozen peas', 'Freshly ground black pepper', '3 ounces fresh goat cheese']
+Weight: 1169.6883217438788
+Cuisine Type: ['french']
+Health Label: ['Vegetarian', 'Pescatarian', 'Mediterranean', 'Egg-Free', 'Peanut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Sulfite-Free', 'Kosher']
+
+Name: French in a Flash: 'Printemps' Penne with Green Vegetables and Goat Cheese Recipe
+The Ingredients: ['3/4 pound broccoli florets', '1 pound penne', '1 tablespoon garlic oil', '1 shallot, finely diced', '1 zucchini, cut into half moons', '1 cup thawed frozen peas', '10.5 ounces chevre, room temperature', '1/3 cup Parmesan, grated', '2 tablespoons flat leaf parsley, chopped']
+Weight: 1551.7365014236111
+Cuisine Type: ['french']
+Health Label: ['Sugar-Conscious', 'Vegetarian', 'Pescatarian', 'Mediterranean', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Sulfite-Free', 'Kosher']
+
+Name: Shrimp and Chorizo Lazy Paella
+The Ingredients: ['1/4 teaspoon (not packed) saffron', '8 1/2 ounces parboiled white rice (preferably cook-in-the-bag rice)', 'Kosher salt and freshly ground black pepper', '2 teaspoons olive oil', '2 ounces spanish chorizo, sliced into thin coins', '1 large shallot, sliced', '20 medium shrimp, peeled and deveined', '1/2 cup frozen peas', '3 tablespoons chopped fresh flat leaf parsley']
+Weight: 530.8327277909375
+Cuisine Type: ['mediterranean']
+Health Label: ['Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free']
+
+Name: The Secret Ingredient: Crème Fraîche Recipe
+The Ingredients: ['Sweet spring peas with shallots, mint, and crème fraîche', '1 pound frozen spring peas', '1/2 large shallot, minced', '2 teaspoons unsalted butter', '1/4 cup crème fraîche', '1 tablespoon chiffonade of fresh mint leaves, plus more for garnish', 'Macaroni and cheese:', '1 pound mostaccioli or ziti 1/2 cup grated fontina', '1 cup crème fraîche', '1/2 cup grated zucchini (1/2 zucchini)', '1/2 cup grated Gruyère', '1/2 cup grated sharp white cheddar', '1/2 grated Parmesan', '1 teaspoon fresh thyme leaves, plus more for garnish', 'Salt and pepper', 'Crème fraîche Sorbet:', '2 cups crème fraîche', '1/4 cup light corn syrup', '1/2 cup sugar']
+Weight: 2102.2559775538143
+Cuisine Type: ['american']
+Health Label: ['Vegetarian', 'Pescatarian', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Kosher']
+
+Name: Vegetable Lo Mein Recipe
+The Ingredients: ['1 tablespoon vegetable oil', '4 ounces shitake mushrooms, sliced', '4 cups shredded Napa cabbage', 'Kosher salt', '1 carrot, thinly sliced or peeled into ribbons with a vegetable peeler', '7 ounces of snow peas, whole or thinly sliced', '1 medium clove garlic, grated (about 1 teaspoon)', '2 teaspoons grated ginger', '3 scallions, sliced', '14 ounces cooked lo mein noodles', '1/4 cup low-sodium soy sauce', 'Sesame seeds for garnish (optional)', 'Chopped fresh cilantro for garnish (optional)']
+Weight: 1188.048745722831
+Cuisine Type: ['chinese']
+Health Label: ['Vegetarian', 'Pescatarian', 'Mediterranean', 'Dairy-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Sulfite-Free', 'Kosher']
+
+Name: French in a Flash: Chèvre and Greens-Stuffed Shells in Béchamel Recipe
+The Ingredients: ['50 jumbo pasta shells', '1 tablespoon olive oil', '1 tablespoon butter, plus 1 tablespoon', '1 extra large shallot, finely diced', '3 cloves garlic, chopped', '1 zucchini, finely diced', '2 cup broccoli florets, chopped up finely', '1 10-ounce box frozen spinach, thawed, and wrung out of all excess liquid', '1/2 cup thawed frozen peas', '2 pounds ricotta cheese', '4 ounces goat cheese, plus 4 ounces', '2 stems mint, leaves chopped', '1 stem tarragon, leaves chopped', '1 egg yolk', '1 tablespoon flour', '1/2 cup milk', '3 cups heavy cream', 'Pinch of nutmeg', '3/4 cup parmesan cheese']
+Weight: 3772.7975104167226
+Cuisine Type: ['italian', 'french']
+Health Label: ['Sugar-Conscious', 'Vegetarian', 'Pescatarian', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Sulfite-Free', 'Kosher']
+
+Name: The Secret Ingredient (Wasabi): Wasabi Chocolate Pudding Recipe
+The Ingredients: ['1 5.9-ounce packet instant chocolate pudding', '3 cups whole milk', '3/4 cups Dutch cocoa', '2 tablespoons wasabi powder', 'Zest 2 limes']
+Weight: 1114.0121891408464
+Cuisine Type: ['japanese']
+Health Label: ['Vegetarian', 'Pescatarian', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Kosher']
+
+Name: The Secret Ingredient (Saffron): Mussels with Saffron and Tomatoes
+The Ingredients: ['4 pounds mussels', '2 tablespoons unsalted butter', '2 large shallots, finely diced', '1/2 cup low-sodium chicken stock, dry white wine, or water', '1 teaspoon saffron', '1 pint grape tomatoes, halved', 'Kosher salt', 'Freshly cracked black pepper', '2/3 cup heavy cream']
+Weight: 2589.6642042205217
+Cuisine Type: ['mediterranean']
+Health Label: ['Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free']
+
+Name: The Secret Ingredient: Preserved Lemons Recipe
+The Ingredients: ['1 chicken, cut into pieces, about 4-4 1/2 pounds', '1 tablespoon chopped fresh chervil', 'Salt and pepper', '2 tablespoons olive oil', '1 or 2 small preserved lemons, thinly sliced, seeded, and rinsed', '2 cloves garlic, thinly sliced', 'Zest of 1/2 orange', 'Zest of 1/2 lemon', '3/4 cup dry white wine', '1 cup chicken stock', '2 tablespoons crème fraîche', 'Chervil Gremolata (recipe follows)', '1 clove garlic, finely chopped', 'Zest 1/2 orange', 'Zest 1/2 lemon', '2 stems fresh thyme, leaves finely chopped', '2 tablespoons chopped fresh chervil', 'Salt and pepper', '2 tablespoons finely chopped preserved lemon (about 1/2 small preserved lemon)', '1 cup grated Parmesan cheese', '1 teaspoon chopped fresh thyme leaves', '1 small preserved lemon, finely diced', 'Zest 1/2 lemon', '1/4 cup water', '1/2 cup sugar', '3 egg whites', '1 1/3 cup heavy cream', 'Basil Syrup (recipe follows)', '1/3 cup water', '1/2 cup sugar', '2 tablespoons chopped fresh basil, about 10 leaves']
+Weight: 3698.447477919618
+Cuisine Type: ['american']
+Health Label: ['Kidney-Friendly', 'Gluten-Free', 'Wheat-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free']
+
+Name: Roasted Red Pepper Hummus Recipe
+The Ingredients: ['2 red peppers', '1 can chic peas', 'Juice of 1 lime', '1 tsp cumin', '1 tsp sesame oil', '2 tsp olive oil', 'Salt and pepper to taste']
+Weight: 807.4983309323081
+Cuisine Type: ['mediterranean']
+Health Label: ['Vegan', 'Vegetarian', 'Pescatarian', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Sulfite-Free', 'Kosher']
+
+Name: Hummus Chick Pea Dip Recipe
+The Ingredients: ['20 ounce chic peas (hummus) - soak to soften', '1/4 cup lemon juice', '1/3 cup tahini', '1/4 cup cold water', '2 tablespoon cold water', '1 tablespoon olive oil for garnish', 'Parsley chopped, for garnish', 'Paprika for garnish', 'Salt to taste', 'Pepper to taste']
+Weight: 825.4382472611027
+Cuisine Type: ['mediterranean']
+Health Label: ['Vegan', 'Vegetarian', 'Pescatarian', 'Mediterranean', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Sulfite-Free', 'Kosher', 'Immuno-Supportive']
+
+Name: Three Ingredient Pancakes! (Vegan, Gluten Free, Dairy Free)
+The Ingredients: ['2/3 C Chic Pea Flour (Also known as Besan Flour)', '1 Whole Banana (Ripe)', '1/2 C water (Keep a little extra to if the batter thickens)']
+Weight: 317.5333333333333
+Cuisine Type: ['american']
+Health Label: ['Vegan', 'Vegetarian', 'Pescatarian', 'Mediterranean', 'Dairy-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added', 'Sulfite-Free', 'Kosher', 'Immuno-Supportive']
+
+Name: Minestrone
+The Ingredients: ['2 can(s) (14 oz) diced tomatos with basil & garlic (italian style)', '1 can(s) (6 oz) tomato paste', '2 can(s) (46 oz) chicken broth', '1 can(s) (15 oz) dark red kidney beans', '1 can(s) (15 oz) pinto beans', '1 can(s) (15 oz) white beans', '1 can(s) (15 oz) garbanzo beans (chic peas)', '2 carrots peeled and rinsed', '2 stalks celery, sliced', '2 c dry mini shell pasta', '1 pkg (9 oz) frozen chopped spinach, thawed', '1 c fresh, shredded parmesan cheese', '1/4 c chopped, fresh parsley']
+Weight: 4209.691871875
+Cuisine Type: ['american']
+Health Label: ['Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added']
+
+Name: Besan Vadi
+The Ingredients: ['1 cup chic pea flour', '1.25 cup water', '1 tsp salt', '0.5 tsp turmeric', '2 tsp sesame seeds', '2 tsp chopped cilantro', '2 tsp oil to coat the pan']
+Weight: 441.0066029984308
+Cuisine Type: ['american']
+Health Label: ['Sugar-Conscious', 'Low Potassium', 'Kidney-Friendly', 'Vegan', 'Vegetarian', 'Pescatarian', 'Mediterranean', 'Dairy-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Sulfite-Free', 'Kosher', 'Immuno-Supportive']
+
+Name: Garbanzo beans salad
+The Ingredients: ['2 cups of dried garbanzo beans (previously soaked overnight)', '1 medium size onion (yellow or red) finely chopped', '2 tablespoons of extra virgin olive oil', '1 teaspoon of sea salt', 'Cilantro roughly chopped (as much as you like)']
+Weight: 545.4061853559936
+Cuisine Type: ['mexican']
+Health Label: ['Vegan', 'Vegetarian', 'Pescatarian', 'Mediterranean', 'DASH', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Sulfite-Free', 'Kosher']
+
+Name: Crispy Cinnamon Garbanzo Beans
+The Ingredients: ['1 cup dried garbanzo beans', '2 tablespoons vegetable oil', '2 tablespoons raw (or regular granulated) sugar', '1/2 teaspoon ground cinnamon', '1 teaspoon salt']
+Weight: 255.70097415716816
+Cuisine Type: ['indian']
+Health Label: ['Kidney-Friendly', 'Vegan', 'Vegetarian', 'Pescatarian', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Kosher']
+
+Name: Crispy Garbanzo Beans
+The Ingredients: ['Two 15-ounce cans garbanzo beans, drained and rinsed', '4 strips bacon', 'Salt', '1 sprig fresh rosemary']
+Weight: 971.48569375
+Cuisine Type: ['mediterranean']
+Health Label: ['Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added', 'Sulfite-Free']
+
+Name: Bulgur Pilaf With Roasted Tomatoes, Onions, And Garbanzo Beans
+The Ingredients: ['2 pounds tomatoes, quartered', '1 large onion, cut into 1/2-inch-thick wedges', '2 tablespoon olive oil', '1 15-ounce can garbanzo beans (chickpeas), drained', '4 garlic cloves, crushed', '2 1/2 cups water', '2 cups bulgur*', '4 tablespoons chopped fresh parsley', '2 tablespoons chopped fresh dill', '1 tablespoon fresh lemon juice']
+Weight: 2425.490086874723
+Cuisine Type: ['mediterranean']
+Health Label: ['Vegan', 'Vegetarian', 'Pescatarian', 'Mediterranean', 'Dairy-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Sulfite-Free', 'Kosher']
+
+Name: Garbanzo Bean Brownies
+The Ingredients: ['1-1/4 cups dark chocolate chips (ghirardelli 60%)', '1 can garbanzo beans, rinsed and drained', '2 eggs', '¼ teaspoon cinnamon', '2 tablespoons cacao powder', '1 tablespoon coconut oil', '2 teaspoons vanilla extract', '½ cup packed brown sugar', '½ teaspoon of baking powder', '½ teaspoon salt', 'Confectioner’s sugar for garnish, optional']
+Weight: 755.1886283842302
+Cuisine Type: ['french']
+Health Label: ['Vegetarian', 'Pescatarian', 'Gluten-Free', 'Wheat-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Kosher']
+
+Name: Ultimate Chickpea Noodle Soup recipes
+The Ingredients: ['4 cups water or a mild vegetable stock', '2 cups pre-soaked ceci beans (also known as chickpeas or garbanzo beans)', '6 ounces fresh or dried pappardelle', '1/3 cup extra virgin olive oil', 'sea salt']
+Weight: 1558.7490957971008
+Cuisine Type: ['asian']
+Health Label: ['Vegan', 'Vegetarian', 'Pescatarian', 'Mediterranean', 'Dairy-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Sulfite-Free', 'Kosher']
+
+Name: Warm Garbanzo Bean Salad recipes
+The Ingredients: ['2 cups dried garbanzo beans or two 15-ounce cans garbanzo beans, drained and rinsed', '1 1/2 teaspoons Aleppo pepper or red pepper flakes', '4 garlic cloves, smashed and peeled', '3 tablespoons kosher salt, or more to taste', '2 fresh thyme sprigs', '1 1/2 teaspoons Dijon mustard', '2 teaspoons smoked paprika', '1/4 cup fresh lemon juice', '2 tablespoons white wine vinegar', '1 cup extra virgin olive oil', '1 fennel bulb, trimmed, cut in half, cored and thinly sliced (about 4 cups)', '1 red onion, cut in half and thinly sliced (about 3 cups)', '1/2 cup finely chopped fresh Italian parsley']
+Weight: 1607.1989776201044
+Cuisine Type: ['mexican']
+Health Label: ['Vegan', 'Vegetarian', 'Pescatarian', 'Mediterranean', 'DASH', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Sulfite-Free', 'Kosher']
+
+Name: Chickpea (Garbanzo Bean) And Tomato Salad
+The Ingredients: ['2 15-ounce cans of garbanzo beans (chickpeas), drained and rinsed', '4 tomatoes (about 2 lbs.), cored and chopped', '4 large hard-boiled eggs, peeled and chopped', '2 cups of chopped sweet onion (Vidalia, Walla walla, or another variety)', '2/3 cup extra-virgin olive oil', '6 Tbsp of white wine vinegar or sherry vinegar', '1 teaspoon salt', 'Freshly ground pepper', 'Chopped parsley for garnish']
+Weight: 2549.79234938875
+Cuisine Type: ['south east asian']
+Health Label: ['Vegetarian', 'Pescatarian', 'Mediterranean', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Sulfite-Free', 'Kosher']
+
+Name: Middle Eastern Spicy Garbanzo Beans
+The Ingredients: ['1 can (15.5 ounces) unsalted garbanzo beans, rinsed and drained', '2 tablespoons freshly squeezed lemon juice', '3 tablespoons white wine vinegar', '1 tablespoon ground cumin', '1/4 teaspoon salt', 'ground black pepper', '5 dashes hot-pepper sauce (optional)', '2 carrots, shredded', '1 english cucumber, chopped']
+Weight: 949.9119456365999
+Cuisine Type: ['mexican', 'middle eastern']
+Health Label: ['Vegan', 'Vegetarian', 'Pescatarian', 'Mediterranean', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added', 'Sulfite-Free', 'Kosher']
+
+Name: Spicy Toasted Garbanzo Beans and Pistachios
+The Ingredients: ['2 15 1/2-ounce cans garbanzo beans (chickpeas), drained', '1/4 cup corn oil', '1 teaspoon coarse sea salt', '1 teaspoon ground cumin', '1 teaspoon ground black pepper', '1/2 teaspoon cayenne pepper', '1 cup shelled raw pistachios', '2 teaspoons fresh thyme leaves']
+Weight: 1064.7930102914906
+Cuisine Type: ['american']
+Health Label: ['Vegan', 'Vegetarian', 'Pescatarian', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Sulfite-Free', 'Kosher']
+
+Name: Spinach and Garbanzo Beans
+The Ingredients: ['2 teaspoons olive oil', '1 tablespoon chopped shallot', '1 tablespoon pine nuts', '1 clove garlic, minced', '½ cup canned chickpeas, rinsed and drained', '1 (9 ounce) package fresh spinach, chopped (8 cups)', '1 tablespoon reduced-sodium soy sauce']
+Weight: 360.6374999998573
+Cuisine Type: ['mexican']
+Health Label: ['Sugar-Conscious', 'Keto-Friendly', 'Vegan', 'Vegetarian', 'Pescatarian', 'Mediterranean', 'Dairy-Free', 'Egg-Free', 'Peanut-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Sulfite-Free', 'Kosher']
+
+Name: Lamb Meatballs with Spicy Garbanzo Beans
+The Ingredients: ['2 pounds ground lamb', '2 large eggs, lightly beaten', '¼ cup finely chopped fresh Italian parsley leaves, plus extra for garnish', '2 tablespoons chopped fresh thyme leaves', '3 large garlic cloves, finely chopped or grated (about 1 teaspoon)', '1 heaping tablespoon kosher salt', '2 teaspoons smoked Spanish paprika', '¼ teaspoon chile flakes', '3 tablespoons canola oil (or other neutral-flavored oil)', '1 15-ounce can garbanzo beans (about 1½ cups), rinsed and drained', '1½ cups vegetable broth', '1 tablespoon plus 1 teaspoon paprika paste', '1 tablespoon plus 1 teaspoon red pepper paste', '2 cups loosely packed baby spinach leaves', '¼ cup strained whole milk Greek yogurt', 'Sea salt']
+Weight: 1880.4369535879496
+Cuisine Type: ['mediterranean']
+Health Label: ['Mediterranean', 'Gluten-Free', 'Wheat-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Sulfite-Free']
+
+Name: Chopped Antipasto Salad With Toasted Garbanzo Beans
+The Ingredients: ['1 (15-ounce) can garbanzo beans', '1 (6 ½-ounce) jar marinated artichokes', '4 tablespoons olive oil', '2 large stalks celery, cut into ½-inch dice', '1 small red onion, cut into ½-inch dice', '1 large red bell pepper, cut into ½-inch dice', '8 Kalamata olives, pitted and sliced', '3 tablespoons red wine vinegar', '3 tablespoons balsamic vinegar', '1 teaspoon dried oregano', '1 teaspoon minced garlic', '½ teaspoon salt', 'Freshly ground pepper', '4 cups romaine leaves torn into bite-size pieces, chilled and crisped', '2 tablespoons minced parsley, optional', '12 paper-thin slices Genoa salami']
+Weight: 1465.2061914290623
+Cuisine Type: ['italian']
+Health Label: ['Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Crustacean-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Sulfite-Free', 'Kosher']
+
+Name: Roast Chicken Breasts With Garbanzo Beans, Tomatoes, And Paprika
+The Ingredients: ['1/4 cup extra-virgin olive oil', '4 garlic cloves, pressed', '1 tablespoon smoked paprika', '1 teaspoon ground cumin', '1/2 teaspoon dried crushed red pepper', '1/2 cup plain yogurt or Greek yogurt', '4 chicken breast halves with bones', '1 15-ounce can garbanzo beans (chickpeas), drained', '1 12-ounce container cherry tomatoes', '1 cup chopped fresh cilantro, divided']
+Weight: 1327.737124375
+Cuisine Type: ['mediterranean']
+Health Label: ['Mediterranean', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Sulfite-Free']
+
+Name: Rosemary-Lemon Garbanzo Bean Spoons
+The Ingredients: ['3 tablespoons olive oil', '2 cloves of garlic, minced', '1 sprig of rosemary, finely chopped', '1 can garbanzo beans', 'Juice and zest of 1/2 lemon', 'Sea salt, freshly ground pepper', '1/4 cup grated pecorino cheese']
+Weight: 398.50000000000006
+Cuisine Type: ['mexican']
+Health Label: ['Sugar-Conscious', 'Low Potassium', 'Kidney-Friendly', 'Vegetarian', 'Pescatarian', 'Mediterranean', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Sulfite-Free', 'Kosher']
+
+Name: Hearty Dinner Recipe: Spanish Bean Soup (Potaje de Garbanzos)
+The Ingredients: ['1 pound dried garbanzo beans (chickpeas)', '8 ounces good-quality bacon or salt pork, chopped', '8 ounces beef stew bones', '8 ounces Spanish chorizo, sliced', '1 small onion, chopped', '2-3 cloves garlic, minced', '3 medium potatoes, peeled and cubed']
+Weight: 1850.480925
+Cuisine Type: ['mediterranean']
+Health Label: ['Dairy-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Fish-Free', 'Shellfish-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Sulfite-Free']
+
+Name: Chickpea Snackers
+The Ingredients: ['3 cups cooked garbanzo beans, rinsed and thoroughly dried', '1 tbsp olive oil', '1/2 tsp kosher salt', '1 tsp paprika']
+Weight: 507.8
+Cuisine Type: ['american']
+Health Label: ['Vegan', 'Vegetarian', 'Pescatarian', 'Mediterranean', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Sulfite-Free', 'Kosher']
+
+Name: Recipe for Garbanzo Bean Salad with red curry and tomatoes recipes
+The Ingredients: ['1 tablespoon Thai red curry paste (from a jar; found in the Asian aisle of most supermarkets)', '1/4 cup light coconut milk', '1 tablespoon lime juice', '1/2 teaspoon cumin', '1/4 teaspoon kosher salt', '2 cans chickpeas (garbanzo beans), drained and rinsed well', '3 tablespoons chopped fresh cilantro', '3 tablespoons chopped fresh mint', '3/4 teaspoon sugar', '3 small tomatoes, any variety (mixed colors look nice), chopped']
+Weight: 1240.8635416664172
+Cuisine Type: ['south east asian']
+Health Label: ['Vegan', 'Vegetarian', 'Pescatarian', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Kosher']
+
+Name: Chopped Salad with Bacon and Fried Garbanzo Beans
+The Ingredients: ['¾ c. olive oil', '1 c. canned garbanzo beans', '1 tsp. kosher salt', '¼ tsp. Black pepper', '.13 tsp. chili powder', '4 slice bacon', '3 tbsp. red wine vinegar', '¼ tsp. dried basil', '¼ tsp. dried oregano', '1 clove garlic', '1 small shallot', '12 cherry tomatoes', '1 cucumber (preferably English)', '1 romaine lettuce', '1 can butter beans', '½ c. small feta cheese cubes', '6 tbsp. ranch dressing']
+Weight: 1955.5551666540382
+Cuisine Type: ['south american']
+Health Label: ['Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Sulfite-Free']
+
+Name: Mediterranean Olive Hummus recipes
+The Ingredients: ['1 can of garbanzo beans, drained and rinsed', '2 T. tahini', '2T. olive oil', '2 T. lemon juice', '1/2 C. pitted olives', 'pinch of salt', 'ground pepper']
+Weight: 382.5119072940031
+Cuisine Type: ['mediterranean']
+Health Label: ['Sugar-Conscious', 'Low Potassium', 'Kidney-Friendly', 'Vegan', 'Vegetarian', 'Pescatarian', 'Mediterranean', 'DASH', 'Dairy-Free', 'Gluten-Free', 'Wheat-Free', 'Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Celery-Free', 'Mustard-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'Sulfite-Free', 'Kosher']
+
+Name: Minestrone
+The Ingredients: ['2 can(s) (14 oz) diced tomatos with basil & garlic (italian style)', '1 can(s) (6 oz) tomato paste', '2 can(s) (46 oz) chicken broth', '1 can(s) (15 oz) dark red kidney beans', '1 can(s) (15 oz) pinto beans', '1 can(s) (15 oz) white beans', '1 can(s) (15 oz) garbanzo beans (chic peas)', '2 carrots peeled and rinsed', '2 stalks celery, sliced', '2 c dry mini shell pasta', '1 pkg (9 oz) frozen chopped spinach, thawed', '1 c fresh, shredded parmesan cheese', '1/4 c chopped, fresh parsley']
+Weight: 4209.691871875
+Cuisine Type: ['american']
+Health Label: ['Egg-Free', 'Peanut-Free', 'Tree-Nut-Free', 'Soy-Free', 'Fish-Free', 'Shellfish-Free', 'Pork-Free', 'Red-Meat-Free', 'Crustacean-Free', 'Mustard-Free', 'Sesame-Free', 'Lupine-Free', 'Mollusk-Free', 'Alcohol-Free', 'No oil added']
+
